@@ -8,6 +8,6 @@ Este repositorio contiene la resolución de la **Práctica 3: Lógica Difusa**, 
 - **defuzificacion_centroide.py** → Cálculo de defuzificación por método del centroide.
 
 ## Instrucciones
-Ejecutar los archivos con:
+Ejecutar los archivos con "ejemplo":
 ```bash
-python practica3/nombre_del_archivo.py
+nombre_del_archivo.py
