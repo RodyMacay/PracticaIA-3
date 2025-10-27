@@ -10,4 +10,4 @@ Este repositorio contiene la resolución de la **Práctica 3: Lógica Difusa**, 
 ## Instrucciones
 Ejecutar los archivos con "ejemplo":
 ```bash
-nombre_del_archivo.py
+python main.py
